@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit cache and local config
+.streamlit/
+.streamlit/secrets.toml
+
+# IDEs and editors
+.vscode/
+.idea/
+.DS_Store
+
+# temp
+*.log
+.env
