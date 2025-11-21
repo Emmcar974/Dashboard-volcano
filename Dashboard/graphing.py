@@ -4,7 +4,7 @@
 
 import numpy as np
 import plotly.graph_objects as go
-from constants import eruptions, color_map, rgba_map
+from Dashboard_VF.Dashboard.constants import eruptions, color_map, rgba_map
 
 # -----------------------------------------------------------
 # 1. Courbe : amplitude moyenne

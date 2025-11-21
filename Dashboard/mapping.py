@@ -4,7 +4,7 @@
 
 import folium
 import plotly.express as px
-from constants import station_coords
+from Dashboard_VF.Dashboard.constants import station_coords
 
 
 def create_station_map(selected_stations, tiles, attr):

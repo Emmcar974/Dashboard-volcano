@@ -4,8 +4,8 @@
 
 import pandas as pd
 from pathlib import Path
-from preprocess import preprocess_data
-from constants import DATA_DIR, eruptions
+from Dashboard_VF.Dashboard.preprocess import preprocess_data
+from Dashboard_VF.Dashboard.constants import DATA_DIR, eruptions
 
 # -----------------------------------------------------------
 # Chargement d’un fichier d’éruption + preprocessing complet
